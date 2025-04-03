@@ -57,7 +57,7 @@ namespace Authentification.JWT.Service.Services
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = identity,
-                Expires = DateTime.Now.AddDays(10),
+                Expires = DateTime.Now.AddMinutes(1),
                 SigningCredentials = credentials
             };
 

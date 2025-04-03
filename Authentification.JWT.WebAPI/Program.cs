@@ -2,6 +2,7 @@ using Authentification.JWT.DAL.Data;
 using Authentification.JWT.Service;
 using Authentification.JWT.Service.Dependency;
 using Authentification.JWT.Service.Services;
+using Authentification.JWT.WebAPI.Middlwares;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using NLog;
@@ -18,6 +19,8 @@ try
     // Add services to the container.
     builder.Services.AddControllers();
 
+    // Register NLog
+    builder.Services.AddSingleton<NLog.ILogger>(sp => LogManager.GetLogger("GlobalLogger"));
 
     // Swagger Configuration
     builder.Services.AddEndpointsApiExplorer();
@@ -28,6 +31,9 @@ try
     builder.Services.AddScoped<UserService>();  // Ajout de IUserService
 
     builder.Services.AddScoped<IJwtService, JwtService>();
+
+
+    builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
 
     builder.Services.AddAuthentication(
 
@@ -59,6 +65,8 @@ try
     }
 
     app.UseHttpsRedirection();
+
+    //app.UseExceptionHandler();
 
     app.UseAuthentication();
 
