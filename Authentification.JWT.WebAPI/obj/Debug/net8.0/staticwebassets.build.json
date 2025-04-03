@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Kdw4awthzdZ7X/26w3QHYvlhIJbwORmOvJd7dpLwV2E=",
+  "Source": "Authentification.JWT.WebAPI",
+  "BasePath": "_content/Authentification.JWT.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
