@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Authentification.JWT.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f8827f9e359d7d3f5b154152b6bb68c2db5f910")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dc6951e96bf79bc59341da213b44cb176872c98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Authentification.JWT.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Authentification.JWT.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

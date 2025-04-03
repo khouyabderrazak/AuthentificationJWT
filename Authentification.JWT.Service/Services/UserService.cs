@@ -1,5 +1,5 @@
 ﻿using Authentification.JWT.DAL.Models;
-using Authentification.JWT.DAL.Repository;
+using Authentification.JWT.Service.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;

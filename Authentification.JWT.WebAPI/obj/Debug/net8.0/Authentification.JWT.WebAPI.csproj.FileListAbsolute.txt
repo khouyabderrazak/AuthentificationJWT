@@ -4,12 +4,6 @@ C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAP
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\Authentification.JWT.WebAPI.AssemblyInfo.cs
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\Authentification.JWT.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\Authentification.JWT.WebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.DAL.deps.json
-C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.DAL.runtimeconfig.json
-C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.DAL.exe
-C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.Service.deps.json
-C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.Service.runtimeconfig.json
-C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.Service.exe
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\appsettings.json
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.WebAPI.staticwebassets.endpoints.json
@@ -50,7 +44,6 @@ C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAP
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\SimpleInjector.dll
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -79,7 +72,6 @@ C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAP
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.Service.dll
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.DAL.pdb
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\Authentification.JWT.Service.pdb
-C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\Authentification.JWT.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Authentification.JWT.WebAPI.styles.css
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
@@ -163,3 +155,4 @@ C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAP
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\Authentification.JWT.WebAPI.sourcelink.json

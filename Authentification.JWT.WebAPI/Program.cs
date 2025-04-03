@@ -1,6 +1,6 @@
 using Authentification.JWT.DAL.Data;
-using Authentification.JWT.DAL.Repository;
 using Authentification.JWT.Service;
+using Authentification.JWT.Service.Repository;
 using Authentification.JWT.Service.Services;
 using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;

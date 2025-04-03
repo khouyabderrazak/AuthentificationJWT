@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "J861MDsuR30=",
+  "dgSpecHash": "Kh3V1fS3ipY=",
   "success": true,
   "projectFilePath": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj",
   "expectedPackageFiles": [
@@ -52,11 +52,9 @@
     "C:\\Users\\akhouy\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\akhouy\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\akhouy\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
-    "C:\\Users\\akhouy\\.nuget\\packages\\simpleinjector\\5.5.0\\simpleinjector.5.5.0.nupkg.sha512",
     "C:\\Users\\akhouy\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\akhouy\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\akhouy\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
-    "C:\\Users\\akhouy\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
     "C:\\Users\\akhouy\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
     "C:\\Users\\akhouy\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
     "C:\\Users\\akhouy\\.nuget\\packages\\system.composition.convention\\6.0.0\\system.composition.convention.6.0.0.nupkg.sha512",

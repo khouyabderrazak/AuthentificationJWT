@@ -1,5 +1,5 @@
 ﻿using Authentification.JWT.DAL.Models;
-using Authentification.JWT.DAL.Repository;
+using Authentification.JWT.Service.Repository;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.IdentityModel.Tokens;
 using System;
