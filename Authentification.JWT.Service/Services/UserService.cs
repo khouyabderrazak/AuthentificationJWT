@@ -23,27 +23,19 @@ namespace Authentification.JWT.Service.Services
 
         }
 
-        public async Task<UserDto> GetUserByUsernameAsync(string username)
+        public async Task<User> GetUserByUsernameAsync(string username)
         {
             return await _userRepository.GetUserByUsernameAsync(username);
         }
  
-        public async Task<UserDto> RegisterUserAsync(string username, string email, string password)
+        public async Task<User> RegisterUserAsync(string username, string email, string password)
         {
             return await _userRepository.RegisterUserAsync(username, email, password);
         }
  
-        public bool VerifyPassword(UserDto user, string password)
+        public bool VerifyPassword(User user, string password)
         {
             return _userRepository.VerifyPassword(user,password);
         }
-
-        public async Task<int> GetIdUser(UserDto userDto)
-        {
-            return await _userRepository.GetIdUser(userDto);
-        }
-       
-
-
     }
 }

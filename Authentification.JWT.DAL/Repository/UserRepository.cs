@@ -23,15 +23,15 @@ namespace Authentification.JWT.Service.Repository
             _mapper = mapper;
             _hasher = new PasswordHasher<User>();
         }
-        public async Task<UserDto> GetUserByUsernameAsync(string username)
+        public async Task<User> GetUserByUsernameAsync(string username)
         {
             var user = await _db.Users.FirstOrDefaultAsync(us => us.Username.Equals(username));
 
-            return _mapper.Map<UserDto>(user);
+            return _mapper.Map<User>(user);
         }
 
 
-        public async Task<UserDto> RegisterUserAsync(string username, string email, string password)
+        public async Task<User> RegisterUserAsync(string username, string email, string password)
         {
             var user = new User()
             {
@@ -46,30 +46,12 @@ namespace Authentification.JWT.Service.Repository
 
             _db.SaveChanges();
 
-            return _mapper.Map<UserDto>(user);
+            return _mapper.Map<User>(user);
         }
 
-        public  bool VerifyPassword(UserDto user, string password)
+        public  bool VerifyPassword(User user, string password)
         {
             return VerifyPasswordFunc(user,password);
-        }
-
-
-        public async Task<int> GetIdUser(UserDto user)
-        {
-            var existingUser = await _db.Users.FirstOrDefaultAsync(ur =>
-
-            ur.Username == user.Username
-
-            );
-
-
-
-            if (existingUser is not null && VerifyPasswordFunc(_mapper.Map<UserDto>(existingUser),user.PasswordHash))
-                return existingUser.Id;
-
-            return -1;
-
         }
 
         public async Task<User> GetUserById(int userId)
@@ -79,9 +61,9 @@ namespace Authentification.JWT.Service.Repository
         }
 
 
-        private bool VerifyPasswordFunc(UserDto user, string password)
+        private bool VerifyPasswordFunc(User user, string password)
         {
-            var result = _hasher.VerifyHashedPassword(_mapper.Map<User>(user), user.PasswordHash, password);
+            var result = _hasher.VerifyHashedPassword(user, user.PasswordHash, password);
 
             return result == PasswordVerificationResult.Success ? true : false;
         }

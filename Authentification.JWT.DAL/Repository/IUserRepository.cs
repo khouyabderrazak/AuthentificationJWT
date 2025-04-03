@@ -9,15 +9,12 @@ namespace Authentification.JWT.Service.Repository
 {
     public interface IUserRepository
     {
-        Task<UserDto> GetUserByUsernameAsync(string username);
-         Task<UserDto> RegisterUserAsync(string username, string email, string password);
+        Task<User> GetUserByUsernameAsync(string username);
+         Task<User> RegisterUserAsync(string username, string email, string password);
 
-        bool VerifyPassword(UserDto user, string password);
-
-        Task<int> GetIdUser(UserDto user);
+        bool VerifyPassword(User user, string password);
 
         Task<User> GetUserById(int userId);
-        //Task<UserDto> LoginUser(UserDto userDto);
 
     }
 }

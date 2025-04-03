@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v8.0": {
       "Authentification.JWT.WebAPI/1.0.0": {
         "dependencies": {
-          "Authentification.JWT.DAL": "1.0.0",
           "Authentification.JWT.Service": "1.0.0",
           "AutoMapper": "14.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.14",
@@ -1023,7 +1022,8 @@
       },
       "Authentification.JWT.Service/1.0.0": {
         "dependencies": {
-          "Authentification.JWT.DAL": "1.0.0"
+          "Authentification.JWT.DAL": "1.0.0",
+          "AutoMapper": "14.0.0"
         },
         "runtime": {
           "Authentification.JWT.Service.dll": {

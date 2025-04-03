@@ -148,6 +148,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -196,9 +202,6 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj": {
-                "projectPath": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj"
-              },
               "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Authentification.JWT.Service.csproj": {
                 "projectPath": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Authentification.JWT.Service.csproj"
               }

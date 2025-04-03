@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Authentification.JWT.DAL\Authentification.JWT.DAL.csproj" />
     <ProjectReference Include="..\Authentification.JWT.Service\Authentification.JWT.Service.csproj" />
   </ItemGroup>
 

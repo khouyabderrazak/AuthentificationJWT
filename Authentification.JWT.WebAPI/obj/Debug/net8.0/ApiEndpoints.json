@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "Authentification.JWT.DAL.Models.UserDto",
+        "Type": "Authentification.JWT.WebAPI.Models.LoginModel",
         "IsRequired": true
       }
     ],
@@ -35,7 +35,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "Authentification.JWT.DAL.Models.User",
+        "Type": "Authentification.JWT.WebAPI.Models.RegisterModel",
         "IsRequired": true
       }
     ],
