@@ -1,12 +1,8 @@
-﻿using Authentification.JWT.DAL.Models;
+﻿using Authentification.JWT.Service.DTOS;
 using Authentification.JWT.Service.Services;
-using AutoMapper;
-using AutoMapper.Configuration.Annotations;
+using Authentification.JWT.Service.DTOS;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
-using Authentification.JWT.WebAPI.Models;
 namespace Authentification.JWT.WebAPI.Controllers
 {
     [Route("api/[controller]")]

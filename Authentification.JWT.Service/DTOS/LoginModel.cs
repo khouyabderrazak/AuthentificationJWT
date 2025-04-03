@@ -1,14 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Authentification.JWT.WebAPI.Models
+namespace Authentification.JWT.Service.DTOS
 {
-    public class RegisterModel
+    public class LoginModel
     {
         [Required]
         public string Username { get; set; }
-
-        [Required]
-        public string Email { get; set; }
 
         [Required]
         public string PasswordHash { get; set; }

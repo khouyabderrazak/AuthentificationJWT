@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "Authentification.JWT.WebAPI.Models.LoginModel",
+        "Type": "Authentification.JWT.Service.DTOS.LoginModel",
         "IsRequired": true
       }
     ],
@@ -35,7 +35,7 @@
     "Parameters": [
       {
         "Name": "model",
-        "Type": "Authentification.JWT.WebAPI.Models.RegisterModel",
+        "Type": "Authentification.JWT.Service.DTOS.RegisterModel",
         "IsRequired": true
       }
     ],
