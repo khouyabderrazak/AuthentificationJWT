@@ -1,13 +1,10 @@
 using Authentification.JWT.DAL.Data;
 using Authentification.JWT.Service;
-using Authentification.JWT.Service.Repository;
+using Authentification.JWT.Service.Dependency;
 using Authentification.JWT.Service.Services;
-using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -17,18 +14,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// AutoMapper
-builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
+builder.Services.AddAthentificationServices();
 
-
-// Services
-builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<UserService>();  // Ajout de IUserService
+
 builder.Services.AddScoped<IJwtService,JwtService>();
-// DB Context
-builder.Services.AddDbContext<AppDbContext>(
-    options => options.UseSqlServer(builder.Configuration.GetConnectionString("connectionString"))
-);
 
 builder.Services.AddAuthentication(
 
