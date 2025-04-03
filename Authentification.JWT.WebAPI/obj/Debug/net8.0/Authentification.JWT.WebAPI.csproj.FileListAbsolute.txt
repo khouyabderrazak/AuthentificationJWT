@@ -158,3 +158,6 @@ C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAP
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\Authentification.JWT.WebAPI.sourcelink.json
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\obj\Debug\net8.0\Authentification.JWT.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\NLog.dll
+C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\nlog.config
+C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\akhouy\source\repos\Authentification_project\Authentification.JWT.WebAPI\bin\Debug\net8.0\NLog.Web.AspNetCore.dll

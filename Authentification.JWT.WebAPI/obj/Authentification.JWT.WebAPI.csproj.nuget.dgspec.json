@@ -248,7 +248,7 @@
               "target": "Package",
               "version": "[8.0.14, )"
             },
-            "NLog": {
+            "NLog.Web.AspNetCore": {
               "target": "Package",
               "version": "[5.4.0, )"
             },
