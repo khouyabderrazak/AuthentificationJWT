@@ -1,6 +1,4 @@
-using Authentification.JWT.DAL.Data;
 using Authentification.JWT.Service;
-using Authentification.JWT.Service.Dependency;
 using Authentification.JWT.Service.Services;
 using Authentification.JWT.WebAPI.Middlwares;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -8,56 +6,56 @@ using Microsoft.IdentityModel.Tokens;
 using NLog;
 using NLog.Web;
 using System.Text;
+using Authentification.JWT.Service.Dependency;
 
-var logger = NLog.LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
-logger.Debug("init main");
+var logger = NLog.LogManager.GetCurrentClassLogger();
+logger.Debug("Initialisation de l'application");
 
 try
 {
     var builder = WebApplication.CreateBuilder(args);
 
-    // Add services to the container.
     builder.Services.AddControllers();
 
-    // Register NLog
     builder.Services.AddSingleton<NLog.ILogger>(sp => LogManager.GetLogger("GlobalLogger"));
 
-    // Swagger Configuration
+    // Configuration de Swagger
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
 
-    builder.Services.AddAthentificationServices();
+    //  services d'authentification
+    builder.Services.AddAthentificationServices(builder.Configuration);
 
-    builder.Services.AddScoped<UserService>();  // Ajout de IUserService
+    //  UserService
+    builder.Services.AddScoped<UserService>();
 
+    //  IJwtService
     builder.Services.AddScoped<IJwtService, JwtService>();
 
+    builder.Services.AddSingleton<GlobalExceptionHandler>();
 
-    builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
+    //jwt configuration
+    builder.Services.AddAuthentication(options =>
+    {
+        options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+        options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    })
+    .AddJwtBearer(options =>
+    {
+        options.RequireHttpsMetadata = false; 
+        options.SaveToken = true;
 
-    builder.Services.AddAuthentication(
-
-        x =>
+        options.TokenValidationParameters = new TokenValidationParameters
         {
-            x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-            x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-        }
-        ).AddJwtBearer(x =>
-        {
-            x.RequireHttpsMetadata = false;
-            x.SaveToken = true;
-            x.TokenValidationParameters = new TokenValidationParameters
-            {
-                ValidateIssuerSigningKey = true,
-                IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes("abddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsj")),
-                ValidateAudience = false,
-                ValidateIssuer = false
-            };
-        });
+            ValidateIssuerSigningKey = true,
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["Jwt:SecretKey"])),
+            ValidateAudience = false,
+            ValidateIssuer = false
+        };
+    });
 
     var app = builder.Build();
 
-    // Configure the HTTP request pipeline.
     if (app.Environment.IsDevelopment())
     {
         app.UseSwagger();
@@ -66,24 +64,21 @@ try
 
     app.UseHttpsRedirection();
 
-    //app.UseExceptionHandler();
-
+  
     app.UseAuthentication();
-
     app.UseAuthorization();
+
     app.MapControllers();
 
     app.Run();
 }
-
-catch (Exception exception)
+catch (Exception ex)
 {
-    // NLog: catch setup errors
-    logger.Error(exception, "Stopped program because of exception");
+    logger.Error(ex, "L'application a échoué lors de l'initialisation");
     throw;
 }
 finally
 {
-    // Ensure to flush and stop internal timers/threads before application-exit (Avoid segmentation fault on Linux)
     NLog.LogManager.Shutdown();
 }
+

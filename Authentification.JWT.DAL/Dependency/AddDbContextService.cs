@@ -1,5 +1,6 @@
 ﻿using Authentification.JWT.DAL.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -11,13 +12,10 @@ namespace Authentification.JWT.DAL.Dependency
 {
     public static class AddDbContextService
     {
-        public static void AddAppDBContextService(this IServiceCollection services)
+        public static void AddAppDBContextService(this IServiceCollection services, IConfiguration _configuration)
         {
-
-            var connectionString = "Server=RAB68WZ2H2;Database=authDB;Integrated Security=True;Trusted_Connection=True;TrustServerCertificate=True;";
-
             services.AddDbContext<AppDbContext>(
-                   options => options.UseSqlServer(connectionString)
+                   options => options.UseSqlServer(_configuration.GetConnectionString("connectionString"))
              );
         }
     }

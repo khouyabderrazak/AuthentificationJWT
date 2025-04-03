@@ -9,6 +9,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 
 namespace Authentification.JWT.Service.Services
 {
@@ -16,17 +17,14 @@ namespace Authentification.JWT.Service.Services
     {
 
 
-        private readonly string _key = "abddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsjabddsjsjdsdjkdsjkdsjdsj";
-
-
-        //public JwtService(Configuration config)
-        //{
-        //    _key = key;
-        //}
+        private readonly string _key;
+        private readonly IConfiguration _config;
         private readonly IUserRepository _userRepository;
-        public JwtService(IUserRepository userRepository)
+        public JwtService(IUserRepository userRepository,IConfiguration config)
         {
             _userRepository = userRepository;
+            _config = config;
+            _key = _config.GetSection("Jwt")["SecretKey"];
         }
         public async Task<string> GenerateToken(int userId)
         {

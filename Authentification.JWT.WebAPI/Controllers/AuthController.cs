@@ -17,6 +17,7 @@ namespace Authentification.JWT.WebAPI.Controllers
         public AuthController(UserService userService, IJwtService jwtService)
 
         {
+     
             _userService = userService;
             _jwtService = jwtService;
         }
