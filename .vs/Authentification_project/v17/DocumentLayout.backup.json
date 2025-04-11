@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.service\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\authentification.jwt.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\authentification.jwt.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\dependency\\adddbcontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\dependency\\adddbcontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.service\\dependency\\addauthentificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\dependency\\addauthentificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.service\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,48 +63,12 @@
       "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.service\\dependency\\addauthentificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\dependency\\addauthentificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\migrations\\20250403125514_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\migrations\\20250403125514_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.service\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\dependency\\adddbcontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\dependency\\adddbcontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.service\\authentification.jwt.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\authentification.jwt.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\exceptionhandler\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\authentification.jwt.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -61,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|solutionrelative:authentification.jwt.webapi\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\authentification.jwt.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\authentification.jwt.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D3394EB-30D1-4208-B2BE-18BC290C861B}|Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.webapi\\authentification.jwt.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -77,14 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.service\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA8DC97F-16FB-44B0-AE45-802F0ECE7197}|Authentification.JWT.Service\\Authentification.JWT.Service.csproj|solutionrelative:authentification.jwt.service\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|solutionrelative:authentification.jwt.dal\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A80A4FB-2A30-4400-97EE-12FCA65CE1A5}|Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj|c:\\users\\akhouy\\source\\repos\\authentification_project\\authentification.jwt.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,124 +142,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddAuthentificationServices.cs",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Dependency\\AddAuthentificationServices.cs",
-              "RelativeDocumentMoniker": "Authentification.JWT.Service\\Dependency\\AddAuthentificationServices.cs",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Dependency\\AddAuthentificationServices.cs",
-              "RelativeToolTip": "Authentification.JWT.Service\\Dependency\\AddAuthentificationServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:18:35.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "Authentification.JWT.Service\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\JwtService.cs",
-              "RelativeToolTip": "Authentification.JWT.Service\\Services\\JwtService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:00:52.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\Program.cs",
               "RelativeToolTip": "Authentification.JWT.WebAPI\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAMjMzMzMLwBEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAACAMzMzMzMbwCwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T11:15:16.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T11:15:16.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\nlog.config",
+              "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\nlog.config",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\nlog.config",
+              "RelativeToolTip": "Authentification.JWT.WebAPI\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T16:52:39.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Authentification.JWT.WebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAlpmZmVklwCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T11:12:58.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IJwtService.cs",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\IJwtService.cs",
-              "RelativeDocumentMoniker": "Authentification.JWT.Service\\Services\\IJwtService.cs",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\IJwtService.cs",
-              "RelativeToolTip": "Authentification.JWT.Service\\Services\\IJwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:00:51.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Authentification.JWT.Service\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\UserService.cs",
-              "RelativeToolTip": "Authentification.JWT.Service\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:00:55.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\appsettings.json",
-              "RelativeToolTip": "Authentification.JWT.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T12:06:27.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "nlog.config",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\nlog.config",
-              "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\nlog.config",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\nlog.config",
-              "RelativeToolTip": "Authentification.JWT.WebAPI\\nlog.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-03T16:52:39.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250403125514_init.cs",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Migrations\\20250403125514_init.cs",
-              "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Migrations\\20250403125514_init.cs",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Migrations\\20250403125514_init.cs",
-              "RelativeToolTip": "Authentification.JWT.DAL\\Migrations\\20250403125514_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:58:38.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "Authentification.JWT.Service\\AutoMapperProfile.cs",
@@ -263,8 +187,84 @@
               "RelativeToolTip": "Authentification.JWT.Service\\AutoMapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:38:30.415Z",
+              "WhenOpened": "2025-04-03T15:38:30.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Authentification.JWT.WebAPI\\ExceptionHandler\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAIAAAAAZmZmZmYkwBUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:00:50.012Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Authentification.JWT.Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "Authentification.JWT.Service\\Services\\UserService.cs",
+              "ViewState": "AgIAAB4AAAAwmZmZmZkzwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:00:55.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Authentification.JWT.DAL\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAADoAAABYZmZmZmYuwEwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:57:57.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Authentification.JWT.DAL\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:55:49.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Authentification.JWT.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAADAZGZmZmYkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:46:25.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authentification.JWT.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj",
+              "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj",
+              "RelativeToolTip": "Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T14:55:51.729Z"
             },
             {
               "$type": "Document",
@@ -274,14 +274,73 @@
               "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Dependency\\AddDbContextService.cs",
               "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Dependency\\AddDbContextService.cs",
               "RelativeToolTip": "Authentification.JWT.DAL\\Dependency\\AddDbContextService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:15:18.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T16:15:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Authentification.JWT.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T12:06:27.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddAuthentificationServices.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Dependency\\AddAuthentificationServices.cs",
+              "RelativeDocumentMoniker": "Authentification.JWT.Service\\Dependency\\AddAuthentificationServices.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Dependency\\AddAuthentificationServices.cs",
+              "RelativeToolTip": "Authentification.JWT.Service\\Dependency\\AddAuthentificationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:18:35.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Authentification.JWT.Service\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\JwtService.cs",
+              "RelativeToolTip": "Authentification.JWT.Service\\Services\\JwtService.cs",
+              "ViewState": "AgIAABQAAADgMTMzM3MrwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:00:52.585Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Authentification.JWT.Service\\Services\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Services\\IJwtService.cs",
+              "RelativeToolTip": "Authentification.JWT.Service\\Services\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:00:51.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250403125514_init.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Migrations\\20250403125514_init.cs",
+              "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Migrations\\20250403125514_init.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Migrations\\20250403125514_init.cs",
+              "RelativeToolTip": "Authentification.JWT.DAL\\Migrations\\20250403125514_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:58:38.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "nlog.config",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\nlog.config",
               "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\nlog.config",
@@ -289,12 +348,11 @@
               "RelativeToolTip": "Authentification.JWT.WebAPI\\nlog.config",
               "ViewState": "AgIAAAIAAAAAMTMzMzMLwBUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-03T16:46:32.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T16:46:32.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Authentification.JWT.Service.csproj",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\Authentification.JWT.Service.csproj",
               "RelativeDocumentMoniker": "Authentification.JWT.Service\\Authentification.JWT.Service.csproj",
@@ -302,24 +360,11 @@
               "RelativeToolTip": "Authentification.JWT.Service\\Authentification.JWT.Service.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T15:00:39.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:00:39.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GlobalExceptionHandler.cs",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\ExceptionHandler\\GlobalExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\ExceptionHandler\\GlobalExceptionHandler.cs",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\ExceptionHandler\\GlobalExceptionHandler.cs",
-              "RelativeToolTip": "Authentification.JWT.WebAPI\\ExceptionHandler\\GlobalExceptionHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:00:50.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Authentification.JWT.WebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj",
               "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj",
@@ -327,25 +372,11 @@
               "RelativeToolTip": "Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T11:13:29.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T11:13:29.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Authentification.JWT.DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj",
-              "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj",
-              "RelativeToolTip": "Authentification.JWT.DAL\\Authentification.JWT.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T14:55:51.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Authentification.JWT.WebAPI.http",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.http",
               "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\Authentification.JWT.WebAPI.http",
@@ -357,31 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Authentification.JWT.DAL\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAACMAAACAyczMzMwmwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:57:57.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "Authentification.JWT.DAL\\Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:55:49.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\DTOS\\RegisterModel.cs",
               "RelativeDocumentMoniker": "Authentification.JWT.Service\\DTOS\\RegisterModel.cs",
@@ -393,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.Service\\DTOS\\LoginModel.cs",
               "RelativeDocumentMoniker": "Authentification.JWT.Service\\DTOS\\LoginModel.cs",
@@ -405,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Models\\User.cs",
               "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Models\\User.cs",
@@ -417,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Authentification.JWT.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -429,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\Authentification_project\\Authentification.JWT.WebAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Authentification.JWT.WebAPI\\Properties\\launchSettings.json",

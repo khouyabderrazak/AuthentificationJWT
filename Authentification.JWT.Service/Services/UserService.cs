@@ -37,5 +37,16 @@ namespace Authentification.JWT.Service.Services
         {
             return _userRepository.VerifyPassword(user,password);
         }
+        
+        public async Task<bool> IsEmailAlreadyExist(string email)
+        {
+            return await _userRepository.IsEmailAlreadyExist(email);
+        }
+        
+        public async Task<bool> IsUserNameAlreadyExist(string username)
+        {
+            return await _userRepository.IsUserNameAlreadyExist(username);
+        }
+
     }
 }

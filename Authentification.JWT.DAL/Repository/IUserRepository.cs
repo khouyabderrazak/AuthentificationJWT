@@ -16,6 +16,9 @@ namespace Authentification.JWT.Service.Repository
 
         Task<User> GetUserById(int userId);
 
+        Task<bool> IsEmailAlreadyExist(string email);
+        Task<bool> IsUserNameAlreadyExist(string username);
+
     }
 }
 

@@ -67,5 +67,17 @@ namespace Authentification.JWT.Service.Repository
 
             return result == PasswordVerificationResult.Success ? true : false;
         }
+
+        public async Task<bool> IsEmailAlreadyExist(string email)
+        {
+            var user = await _db.Users.FirstOrDefaultAsync(user => user.Email == email);
+            return user != null ? true : false;
+        }
+
+        public async Task<bool> IsUserNameAlreadyExist(string username)
+        {
+            var user = await _db.Users.FirstOrDefaultAsync(user => user.Username == username);
+            return user != null ? true : false;
+        }
     }
 }
